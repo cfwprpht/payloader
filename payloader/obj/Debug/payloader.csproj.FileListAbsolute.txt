@@ -1,0 +1,9 @@
+C:\Coding\payloader\payloader\bin\Debug\payloader.exe.config
+C:\Coding\payloader\payloader\bin\Debug\payloader.exe
+C:\Coding\payloader\payloader\bin\Debug\payloader.pdb
+C:\Coding\payloader\payloader\obj\Debug\payloader.csprojResolveAssemblyReference.cache
+C:\Coding\payloader\payloader\obj\Debug\payloader.payloader.resources
+C:\Coding\payloader\payloader\obj\Debug\payloader.Properties.Resources.resources
+C:\Coding\payloader\payloader\obj\Debug\payloader.csproj.GenerateResource.Cache
+C:\Coding\payloader\payloader\obj\Debug\payloader.exe
+C:\Coding\payloader\payloader\obj\Debug\payloader.pdb
