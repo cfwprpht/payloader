@@ -1,9 +1,0 @@
-C:\Coding\payloader\payloader\bin\Release\payloader.exe.config
-C:\Coding\payloader\payloader\bin\Release\payloader.exe
-C:\Coding\payloader\payloader\bin\Release\payloader.pdb
-C:\Coding\payloader\payloader\obj\Release\payloader.csprojResolveAssemblyReference.cache
-C:\Coding\payloader\payloader\obj\Release\payloader.payloader.resources
-C:\Coding\payloader\payloader\obj\Release\payloader.Properties.Resources.resources
-C:\Coding\payloader\payloader\obj\Release\payloader.csproj.GenerateResource.Cache
-C:\Coding\payloader\payloader\obj\Release\payloader.exe
-C:\Coding\payloader\payloader\obj\Release\payloader.pdb
